@@ -1,4 +1,3 @@
-void main() {
   var name = 'Bob';
   //自从推断类型 并且不能直接赋值更改类型  name=123;  print error
 
@@ -19,5 +18,3 @@ void main() {
   //这个是错误示例，在使用时final变量是不可以更改的
 
   final String nickname = 'Bobby';
-  
-}
