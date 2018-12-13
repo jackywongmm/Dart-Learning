@@ -19,4 +19,5 @@ void main() {
   //这个是错误示例，在使用时final变量是不可以更改的
 
   final String nickname = 'Bobby';
+  
 }
